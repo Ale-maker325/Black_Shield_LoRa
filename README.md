@@ -11,7 +11,7 @@
 Плата расширения для ESP8266 Wemos D1 mini/ESP32 S2 mini/ESP32 S3 mini.
 
 
-1707047014268.jpg
-
 (https://github.com/Ale-maker325/Black_Shield_LoRa/blob/main/IMAGE/1707047014268.jpg)
+
+![IMG_1707047014268](https://github.com/Ale-maker325/Black_Shield_LoRa/blob/main/IMAGE/1707047014268.jpg)
 
